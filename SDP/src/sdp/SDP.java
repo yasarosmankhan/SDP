@@ -32,6 +32,8 @@ public class SDP {
             List<String> following = new ArrayList<>();
             following.add(follower_names);
             System.out.println(following);
+            System.out.println("test");        
+
         }
     }
     
